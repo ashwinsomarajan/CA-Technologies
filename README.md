@@ -1,6 +1,6 @@
 # Placement Year
 
-Waflle.io Demo
+Waffle.io Demo
 
 Agile Requirements Designer Demo
 
